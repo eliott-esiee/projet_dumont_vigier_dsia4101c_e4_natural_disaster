@@ -1,0 +1,14 @@
+tidyverse
+shiny
+gapminder
+dplyr
+readr
+ggplot2
+plotly
+leaflet
+shinydashboard
+zoo
+sf
+sp
+networkD3
+tidyr
