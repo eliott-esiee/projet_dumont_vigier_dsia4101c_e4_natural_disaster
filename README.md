@@ -12,17 +12,16 @@ Avant de commencer, assurez-vous d'avoir :
 1. **Cloner le dépôt** : Ouvrez votre terminal (ou l'invite de commande) et exécutez la commande suivante :
 
    ```bash
-   git clone https://git.esiee.fr/dumontjo/projet_dumont_vigier_dsia4101c_e4_natural_disaster
+   git clone https://github.com/eliott-esiee/projet_dumont_vigier_dsia4101c_e4_natural_disaster
    ```
 
 
 2. **Naviguer dans le dossier du projet** :
 
    ```
-   cd [nom du dossier]
+   cd projet_dumont_vigier_dsia4101c_e4_natural_disaster-master
    ```
 
-   Remplacez `[nom du dossier]` par le nom de votre dossier de projet cloné.
 
 ## Installation des Dépendances
 
